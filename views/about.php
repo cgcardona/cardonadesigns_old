@@ -1,4 +1,4 @@
-        <div id='about' class=''>
+        <div id='about' class='clearBoth'>
           <h2>About.</h2>
           <p>Cardona Designs is a channel for the realization of great ideas.
           <p>We solve problems.

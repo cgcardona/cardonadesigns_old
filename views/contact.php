@@ -1,4 +1,4 @@
-        <div id='contact' class=''>
+        <div id='contact' class='clearBoth'>
           <h2>Contact.</h2>
           <p id='phone'><span>Phone:</span> <span>831.235.7406</span>
           <p id='email'><span>Email:</span> <span>cgcardona [at] gmail</span>

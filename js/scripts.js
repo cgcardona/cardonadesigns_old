@@ -39,7 +39,6 @@ $(document).ready(function(){
     }
     else if((event.target.id) == 'wrk')
     {
-      console.log($('#work').height() * 2);
    //   $('#work').addClass('awake').removeClass('asleep');
       $.scrollTo(($('#work').height() * 2),($('#work').height() * 2));
     }

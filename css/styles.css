@@ -17,6 +17,10 @@ a:hover{
   text-decoration:underline;
 }
 
+.clearBoth{
+  clear:both;
+}
+
 #nav{
   width:100%;
   height:40px;
@@ -106,7 +110,7 @@ a:hover{
 #about p{
   font-size:3em;
   position:relative;
-  top:75px;
+  top:35px;
   margin-bottom:20px;
 }
 
@@ -144,6 +148,8 @@ a:hover{
 
 #work img{
   border:none;
+  float:right;
+  margin-right:45;
 }
 
 #work a{
@@ -151,16 +157,20 @@ a:hover{
   color:#000;
 }
 
-#work #aud1,#work #aud3{
-  height:150px;
+#work #aud1{
+  width:40%;
+}
+
+#work #aud3{
+  width:50%;
 }
 
 #work #aud2{
-  height:100px;
+  width:50%;
 }
 
 #work .text{
-  width:30%;
+  width:45%;
   margin-top:5px;
   margin-right:20px;
   float:left;
