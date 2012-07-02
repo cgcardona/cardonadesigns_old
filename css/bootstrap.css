@@ -5006,6 +5006,20 @@ p {
   line-height: 1.2em;
 }
 
+.navbar .nav .inactive i {
+  opacity: .5;
+}
+
+.navbar .nav .inactive a:hover {
+  color: #fff;
+  -webkit-transition: color .5s;
+}
+
+.navbar .nav .inactive a:hover i {
+  opacity: 1;
+  -webkit-transition: opacity .5s;
+}
+
 #top {
   text-align: center;
 }

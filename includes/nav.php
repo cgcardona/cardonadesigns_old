@@ -11,11 +11,11 @@
             <ul class="nav">
               <li class="active"><a href="#" id='nav_top'><i class="icon-home icon-white icon"></i> Home</a></li>
               <li class="divider-vertical"></li>
-              <li class=""><a href="#" id='nav_about'><i class="icon-info-sign icon"></i> About</a></li>
+              <li class="inactive"><a href="#" id='nav_about'><i class="icon-info-sign icon-white icon"></i> About</a></li>
               <li class="divider-vertical"></li>
-              <li class=""><a href="#" id='nav_work'><i class="icon-folder-open icon"></i> Work</a></li>
+              <li class="inactive"><a href="#" id='nav_work'><i class="icon-folder-open icon-white icon"></i> Work</a></li>
               <li class="divider-vertical"></li>
-              <li class=""><a href="#" id='nav_contact'><i class="icon-user icon"></i> Contact</a></li>
+              <li class="inactive"><a href="#" id='nav_contact'><i class="icon-user icon-white icon"></i> Contact</a></li>
             </ul>
           </div>
         </div>
