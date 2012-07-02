@@ -1,7 +1,7 @@
       <div id='top' class="">
         <h1>We do design.</h1>
         <div class="row-fluid ">
-          <div class="span12"><h2>Cardona Designs is a channel for the realization of great ideas.<h2></div>
+          <div class="span12"><h2>Cardona Designs is a channel for the realization of great ideas.</h2></div>
         </div>
         <div class="row-fluid">
           <div class="span4">
