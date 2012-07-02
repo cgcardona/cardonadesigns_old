@@ -4,6 +4,7 @@
         <ul>
           <li>HTML5 Specification <a href="http://www.whatwg.org/specs/web-apps/current-work/multipage/acknowledgements.html#acknowledgements">Acknowledged Contributor</a>
           <li>Previous member in good standing of the <a href="http://www.w3.org/2000/09/dbwg/details?group=40318&amp;public=1">W3C HTML5 Working Group</a>
+          <li>Lead mobile web developer on project which generated multiple millions of dollars in sales within a couple of weeks.
           <li>Lead developer on mobile website serving hundreds of thousands of hits per day.
           <li>Developed and maintained a suite of webservices which fed data to over 10 native iOS and Android apps.
           <li>Implemented Push Push Notifications for iOS and Android that is pushing tens of thousands of notifications each day.
