@@ -1,0 +1,112 @@
+/* some styles taken from twitter bootstrap documentation */
+body{
+  padding-top:50px;
+}
+.navbar-fixed-top .brand {
+  padding-right: 0;
+  padding-left: 0;
+  margin-left: 20px;
+  float: right;
+  font-weight: bold;
+  color: #000;
+  text-shadow: 0 1px 0 rgba(255,255,255,.1), 0 0 30px rgba(255,255,255,.125);
+  -webkit-transition: all .2s linear;
+     -moz-transition: all .2s linear;
+          transition: all .2s linear;
+}
+.navbar-fixed-top .brand:hover {
+  text-decoration: none;
+}
+h1,h2,h3,p{
+  font-weight:200;
+}
+h1,h2{
+  margin-bottom:.75em;
+}
+ul ul{
+  list-style-type:circle;
+}
+p{
+  font-size:1.4em;
+  line-height:1.2em;
+}
+#top{
+  text-align:center;
+
+  h1{
+    font-size:82px;
+    padding-top:70px;
+  }
+
+  h2{
+    font-size:35px;
+  }
+
+  #responsive{
+    color:@btnDangerBackground;
+  }
+  
+  #modern{
+    color:@btnWarningBackground;
+  }
+  
+  #beautiful{
+    color:@btnSuccessBackground;
+  }
+
+  .alert{
+    margin-top:10px;
+  }
+}
+
+@media (max-width: 980px) {
+
+  /* Unfloat brand */
+  .navbar-fixed-top .brand {
+    float: left;
+    margin-left: 0;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+/* Landscape phones and down */
+@media (max-width: 480px) {
+  body{
+    margin-top:0px;
+  }
+  #top{
+
+    h1,h2{
+      margin-bottom:.5em;
+    }
+
+    h1{
+      font-size:30px;
+      padding-top:0px;
+    }
+  
+    h2{
+      font-size:18px;
+      line-height:1.25em;
+      margin-bottom:1em;
+    }
+  }
+}
+
+/* landscape phone to desktop */
+@media (min-width: 481px) and (max-width: 979px) {
+  #top{
+    h1{
+      font-size:70px;
+    }
+  
+    h2{
+      font-size:30px;
+    }
+  }
+}
+
+/* Large desktop */
+@media (min-width: 1200px) {
+}
