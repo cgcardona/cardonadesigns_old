@@ -6,7 +6,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="brand" href="./index.html">Cardona Designs</a>
+          <a class="brand" href="/">Cardona Designs</a>
           <div class="nav-collapse collapse">
             <ul class="nav">
               <li class="active"><a href="#" id='nav_top'><i class="icon-home icon-white icon"></i> Home</a></li>
