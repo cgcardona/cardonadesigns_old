@@ -5013,6 +5013,7 @@ p {
 
 .navbar .nav .inactive i {
   opacity: .5;
+  -webkit-transition: opacity .5s;
 }
 
 .navbar .nav .inactive a {
