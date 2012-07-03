@@ -1,7 +1,8 @@
 $(document).ready(function(){
   $('.nav li').click(function(){
     $('.nav .active').removeClass('active').addClass('inactive');
-    $(this).addClass('active').find('.icon').addClass('icon-white');
+    console.log($(this));
+    $(this).addClass('active').removeClass('inactive').find('.icon').addClass('icon-white');
     $.get('includes/' + $(this).children('a').attr('id') + '.php',function(data){
       $('#main-content').html(data);
     });

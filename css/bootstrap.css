@@ -5006,8 +5006,17 @@ p {
   line-height: 1.2em;
 }
 
+.navbar .nav li a {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
 .navbar .nav .inactive i {
   opacity: .5;
+}
+
+.navbar .nav .inactive a {
+  -webkit-transition: color .5s;
 }
 
 .navbar .nav .inactive a:hover {
@@ -5018,6 +5027,10 @@ p {
 .navbar .nav .inactive a:hover i {
   opacity: 1;
   -webkit-transition: opacity .5s;
+}
+
+.navbar .nav .divider-vertical {
+  margin: 0;
 }
 
 #top {

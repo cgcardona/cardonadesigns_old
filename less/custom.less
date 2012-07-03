@@ -32,9 +32,18 @@ p{
 }
 .navbar{
   .nav{
+    li{
+      a{
+        padding-left:15px;
+        padding-right:15px;
+      }
+    }
     .inactive{
       i{
         opacity:.5;
+      }
+      a{
+        -webkit-transition: color .5s;
       }
       a:hover{
         color:#fff;
@@ -44,6 +53,9 @@ p{
           -webkit-transition: opacity .5s;
         }
       }
+    }
+    .divider-vertical{
+      margin:0;
     }
   }
 }
