@@ -1,5 +1,5 @@
       <div id='about' class="">
-        <h1>Experience</h1>
+        <h1>Carlos Cardona&rsquo;s R&eacute;sum&eacute;</h1>
         <h3>Career Highlights</h3>
         <ul>
           <li>HTML5 Specification <a href="http://www.whatwg.org/specs/web-apps/current-work/multipage/acknowledgements.html#acknowledgements">Acknowledged Contributor</a>
