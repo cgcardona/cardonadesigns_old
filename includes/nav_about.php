@@ -7,7 +7,7 @@
           <li>Lead mobile web developer on project which generated multiple millions of dollars in sales within a couple of weeks.
           <li>Lead developer on mobile website serving hundreds of thousands of hits per day.
           <li>Developed and maintained a suite of webservices which fed data to over 10 native iOS and Android apps.
-          <li>Implemented Push Push Notifications for iOS and Android that is pushing tens of thousands of notifications each day.
+          <li>Implemented Push Notifications for iOS and Android that is pushing tens of thousands of notifications each day.
           <li>4 separate presentations on HTML5 to the <a href="http://scwdgroup.com/">Santa Cruz Web Developers Group</a> and <a href="http://nextspace.us/">NextSpace</a> in Santa Cruz, CA.
         </ul>
         <hr>
@@ -24,7 +24,7 @@
             </ul>
           </li>
           <li><strong>Developer on Webservices backend</strong> Developed and maintained a suite of webservices which fed data to our over 10 native iOS and Android apps.
-          <li><strong>Implemented Push Push Notifications for iOS and Android</strong> 
+          <li><strong>Implemented Push Notifications for iOS and Android</strong> 
             <ul>
               <li>C2DM (Cloud to Device Messaging) for Android.
               <li>APNS (Apple Push Notification Service) for Apple.
