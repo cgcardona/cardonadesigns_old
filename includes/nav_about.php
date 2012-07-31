@@ -20,7 +20,6 @@
               <li>Worked with QA to ensure high quality.
               <li>Multiple 100s of %  YOY growth since joining the team.
               <li>Lead developer on a multi phase sight redesign.
-              <li>Lead mobile web developer on project which generated multiple millions of dollars in sales within a couple of weeks.
             </ul>
           </li>
           <li><strong>Developer on Webservices backend</strong> Developed and maintained a suite of webservices which fed data to our over 10 native iOS and Android apps.
