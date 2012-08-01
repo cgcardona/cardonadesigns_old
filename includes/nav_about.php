@@ -127,9 +127,8 @@
               'terms-of-service'
             );
             foreach($tmp_arr as $i)
-              echo '<img src="img/af_img/' . $i . '.png" alt="foobar">';
+              echo '<img src="img/af_img/' . $i . '.png" alt="image">';
             ?>
-            <li><img src='img/af_img/' alt=''>
           </ul>
           <hr>
       </div>
