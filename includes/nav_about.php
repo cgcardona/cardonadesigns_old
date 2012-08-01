@@ -87,5 +87,49 @@
             <li class="list-style-type-none"><img src="img/whatwg-6_8-ex1.png" alt="HTML5 sample user interface example 1">
             <li class="list-style-type-none"><img src="img/whatwg-6_8-ex2.png" alt="HTML5 sample user interface example 2">
           </ul>
+        <hr>
+        <h3>User Experience and Design</h3>
+        <p>This shows how I took my Audiofile project from wireframes to Illustrator Mockups:
+          <ul>
+            <?php
+            $tmp_arr = array(
+              'landing-not-signed-in',
+              'landing-page',
+              'landing-login',
+              'landing-page-login',
+              'pricing-signup-1',
+              'plans-and-pricing',
+              'dashboard',
+              'dashboard-1',
+              'dashboard2',
+              'dashboard-2',
+              'profile',
+              'profile-ai',
+              'new_repository',
+              'create-new-repository',
+              'song',
+              'song-page',
+              'song-watchers-hover',
+              'song-page-watchers-hover',
+              'song-forks-hover',
+              'song-page-forks-hover',
+              'song-commits',
+              'commits-page',
+              'song-commit',
+              'commit-page',
+              'register1',
+              'free-register',
+              'register2',
+              'limited-register',
+              'register3',
+              'unlimited-register',
+              'terms-of-service-ai',
+              'terms-of-service'
+            );
+            foreach($tmp_arr as $i)
+              echo '<img src="img/af_img/' . $i . '.png" alt="foobar">';
+            ?>
+            <li><img src='img/af_img/' alt=''>
+          </ul>
           <hr>
       </div>
