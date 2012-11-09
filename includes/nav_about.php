@@ -3,25 +3,40 @@
         <h3>Career Highlights</h3>
         <ul>
           <li>HTML5 Specification <a href="http://www.whatwg.org/specs/web-apps/current-work/multipage/acknowledgements.html#acknowledgements">Acknowledged Contributor</a>
+          <li>Trulia&rsquo;s <a
+              href='http://www.sec.gov/Archives/edgar/data/1349454/000119312512383756/d352334ds1a.htm'>Initial Public Offering</a>. The company raised $100,000,000.
           <li>Previous member in good standing of the <a href="http://www.w3.org/2000/09/dbwg/details?group=40318&amp;public=1">W3C HTML5 Working Group</a>
           <li>Lead mobile web developer on project which generated multiple millions of dollars in sales within a couple of weeks.
           <li>Lead developer on mobile website serving hundreds of thousands of hits per day.
+          <li>Co-architect on a redesign of <a href='http://m.trulia.com'>m.trulia.com</a>. We rebuilt the client using jQuery Mobile.
+          <li>Launched Windows 8 app the day of the OS release.
           <li>Developed and maintained a suite of webservices which fed data to over 10 native iOS and Android apps.
           <li>Implemented Push Notifications for iOS and Android that is pushing tens of thousands of notifications each day.
-          <li>4 separate presentations on HTML5 to the <a href="http://scwdgroup.com/">Santa Cruz Web Developers Group</a> and <a href="http://nextspace.us/">NextSpace</a> in Santa Cruz, CA.
+          <li>4 separate presentations on HTML5 to the Santa Cruz Web Developers Group and NextSpace in Santa Cruz, CA.
         </ul>
         <hr>
         <h3>Mobile Web Developer</h3>
         <h3><a href='http://trulia.com'>Trulia</a> July 2011&ndash;Current</h3>
         <ul>
-          <li><strong>Lead developer on m.trulia.com:</strong> Developed a modern mobile web app with HTML5/CSS3/Javascript(jQuery) built on top of the LAMP (Linux, Apache, MySQL, PHP) stack.
+          <li><strong>Lead developer on m.trulia.com:</strong> Developed a modern mobile web app with HTML5/CSS3/Javascript(jQuery Mobile) built on top of the LAMP (Linux, Apache, MySQL, PHP) stack.
             <ul>
+              <li>jQuery Mobile
+              <li>Google Maps Javascript API V3
+              <li>Smarty and Fast Template
               <li>Worked with design to create intuitive UIs.
               <li>Worked with QA to ensure high quality.
-              <li>Multiple 100s of %  YOY growth since joining the team.
-              <li>Lead developer on a multi phase sight redesign.
+              <li>Multiple 100s of % YOY growth since joining the team.
+              <li>Co-architect and lead developer on a multi phase sight redesign.
             </ul>
           </li>
+          <li><strong>Windows 8 app</strong> 
+            <ul>
+              <li>Built native <a href='http://apps.microsoft.com/webpdp/en-US/app/trulia-real-estate-homes-for/aaa2a256-90ca-4abd-938f-3788f598a235'>windows 8 app</a> with Metro UI on HTML5/CSS3/Javascript stack.
+              <li>Launched in Windows 8 App store a few days before the official launch of the OS
+              <li>Build with Visual Studio 2012
+              <li>CSS3 <a href='http://msdn.microsoft.com/en-us/library/ie/hh673533(v=vs.85).aspx'>Grid Layout</a>
+              <li>CSS3 <a href='http://msdn.microsoft.com/en-us/library/ie/hh673534(v=vs.85).aspx'>Multi Column Layout</a>
+            </ul>
           <li><strong>Developer on Webservices backend</strong> Developed and maintained a suite of webservices which fed data to our over 10 native iOS and Android apps.
           <li><strong>Implemented Push Notifications for iOS and Android</strong> 
             <ul>
@@ -31,7 +46,6 @@
             </ul>
           <li>On the team that is transitioning the codebase from Subversion to Git.
           <li>Jira for issue tracking.
-          <li>Smarty and Fast Template
           <li>Homebrew MVC
         </ul>
         <hr>
